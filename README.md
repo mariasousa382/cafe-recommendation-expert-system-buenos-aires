@@ -72,7 +72,7 @@ Found 2 matching cafe(s):
 
 Clone the repository:
 
-git clone [https://github.com/yourusername/buenos-aires-cafe-expert-system.git](https://github.com/mariasousa382/cafe-recommendation-expert-system-buenos-aires.git)
+git clone https://github.com/mariasousa382/cafe-recommendation-expert-system-buenos-aires.git
 cd buenos-aires-cafe-expert-system
 
 Install dependencies:
